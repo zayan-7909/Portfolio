@@ -2,11 +2,7 @@
 
 A responsive personal portfolio website showcasing my projects, skills, education, and contact information.
 
-## 🚀 Live Demo
 
-🔗 https://your-username.github.io/Portfolio/
-
-*(Update this link after deploying your portfolio with GitHub Pages.)*
 
 ---
 
@@ -45,13 +41,7 @@ Portfolio/
 
 ---
 
-## 📷 Preview
 
-(Add a screenshot of your homepage here.)
-
-Example:
-
-![Portfolio Screenshot](Images/screenshot.png)
 
 ---
 
